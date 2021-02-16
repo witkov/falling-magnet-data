@@ -13,6 +13,7 @@ Length A = 0.61 m
 Length B = 0.61 m
 
 Pipe A      |   Pipe B
+------------|------------
 Time (s)    |   Time (s) 
             |
 6.31        |   3.42            

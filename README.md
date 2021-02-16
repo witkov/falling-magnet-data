@@ -1,12 +1,17 @@
 # falling-magnet-data
 
-Radius A    |   Radius B
-0.0125 m    |   0.0214 m
-Thickness A |   Thickness B
-0.0005 m    |   0.001 m
-Length A    |   Length B
-0.61 m      |   0.61 m
-            |
+Radius A = 0.0125 m
+
+Radius B = 0.0214 m
+
+Thickness A = 0.0005 m
+
+Thickness B = 0.001 m
+
+Length A = 0.61 m
+
+Length B = 0.61 m
+
 Pipe A      |   Pipe B
 Time (s)    |   Time (s) 
             |

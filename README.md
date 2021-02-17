@@ -1,12 +1,12 @@
 # falling-magnet-data
 
-Radius A = 0.0125 m
+Radius A = 0.0142 m
 
-Radius B = 0.0214 m
+Radius B = 0.0196 m
 
-Thickness A = 0.0005 m
+Thickness A = 0.00076 m
 
-Thickness B = 0.001 m
+Thickness B = 0.0012 m
 
 Length A = 0.61 m
 
